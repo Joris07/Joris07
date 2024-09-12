@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joris Gourdon</h1>
 <h3 align="center">A passionate full stack developper from France</h3>
 
-- 🌱 I’m currently learning **Tailwind CSS, React and J2E**
+- 🌱 I’m currently learning **Tailwind CSS, React and SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://joris07.github.io/portfolio/](https://joris07.github.io/portfolio/)
 
